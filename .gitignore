@@ -1,0 +1,10 @@
+data/
+cache/
+artifacts/
+*.pt
+*.npz
+*.tar.gz
+*.mp4
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
